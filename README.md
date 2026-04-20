@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Alessandro
 
-<!--
-**aamorimf/aamorimf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Automation Developer focused on solving real business problems
 
-Here are some ideas to get you started:
+## 💼 What I do
+- WhatsApp Bots
+- Automated Quote Systems
+- Business Process Automation
+- Simple Landing Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Python
+- Automation
+- APIs & Integrations
+- Problem Solving
+
+## 🎯 Focus
+Helping businesses save time and improve efficiency through automation.
+
+## 📫 Contact
+- WhatsApp: https://wa.me/5521976386132
+- Instagram: https://instagram.com/alessandro.amoriim
